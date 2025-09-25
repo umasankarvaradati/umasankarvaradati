@@ -21,14 +21,14 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 - 👯 I’m looking to collaborate on open-source projects.
 - 🤔 I’m looking for help with innovative ideas.
 - 💬 Ask me about anything tech-related!
-- 📫 How to reach me: [Your email or contact info here]
+- 📫 How to reach me: umasankarvaradati@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving puzzles and coding challenges!
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/yourprofile) (Add your LinkedIn if available)
-- [Twitter](https://twitter.com/yourhandle) (Add your Twitter if available)
-- [Personal Website](https://yourwebsite.com) (Add if you have one)
+- [LinkedIn](https://www.linkedin.com/in/varadati-390a24336/) 
+- [Twitter]() 
+- [Personal Website](https://roadmap.sh/u/umasankar) 
 
 Thanks for visiting! Feel free to explore my repositories and star your favorites. 🚀
