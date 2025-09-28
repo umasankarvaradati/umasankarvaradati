@@ -27,8 +27,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/varadati-390a24336/) 
-- [Twitter]() 
+- [LinkedIn](https://www.linkedin.com/in/varadati-390a24336/)
 - [Personal Website](https://roadmap.sh/u/umasankar) 
 
 Thanks for visiting! Feel free to explore my repositories and star your favorites. 🚀
